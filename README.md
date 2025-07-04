@@ -74,6 +74,5 @@
   <a href="https://www.linkedin.com/in/enes-tiske-b27963238" target="_blank">LinkedIn</a> | <a href="mailto:menes.tiske@gmail.com">Email</a>
 <p align="left">
 </p>
+
 ###
-
-
