@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Enes Tiske, a Computer Engineer<br>
+<p align="left">I'm Enes Tiske, a Computer Engineer passionate about full-stack mobile and web development.<br>
   <br>- 🔭 I’m working on full-stack mobile-web development projects.
   <br>- 📚 I'm currently learning Flutter, React, TypeScript, Spring Boot, Node.js, MongoDB, and Docker.
   <br>- ⚡ In my free time, I like to work on personal projects, play video games, watch tech tutorials, and build new things with AI.
